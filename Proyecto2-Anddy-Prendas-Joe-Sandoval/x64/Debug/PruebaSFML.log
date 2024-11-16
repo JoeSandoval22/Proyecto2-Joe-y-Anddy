@@ -1,0 +1,46 @@
+﻿  main.cpp
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(97,67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(97,50): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(103,82): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(103,82): warning C4244:         with
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(103,82): warning C4244:         [
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(103,82): warning C4244:             T=float
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(103,82): warning C4244:         ]
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(103,61): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(103,61): warning C4244:         with
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(103,61): warning C4244:         [
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(103,61): warning C4244:             T=float
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(103,61): warning C4244:         ]
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(104,104): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(104,104): warning C4244:         with
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(104,104): warning C4244:         [
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(104,104): warning C4244:             T=float
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(104,104): warning C4244:         ]
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(104,72): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(104,72): warning C4244:         with
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(104,72): warning C4244:         [
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(104,72): warning C4244:             T=float
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(104,72): warning C4244:         ]
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(241,40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(351,104): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(351,104): warning C4244:         with
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(351,104): warning C4244:         [
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(351,104): warning C4244:             T=float
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(351,104): warning C4244:         ]
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(351,83): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(351,83): warning C4244:         with
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(351,83): warning C4244:         [
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(351,83): warning C4244:             T=float
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(351,83): warning C4244:         ]
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(359,106): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(359,106): warning C4244:         with
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(359,106): warning C4244:         [
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(359,106): warning C4244:             T=float
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(359,106): warning C4244:         ]
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(359,85): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(359,85): warning C4244:         with
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(359,85): warning C4244:         [
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(359,85): warning C4244:             T=float
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(359,85): warning C4244:         ]
+C:\Users\UNA-CC\source\repos\PruebaSFML\PruebaSFML\main.cpp(266,1): warning C4715: 'RouteList::getRoute': no todas las rutas de acceso de control devuelven un valor
+  PruebaSFML.vcxproj -> C:\Users\UNA-CC\source\repos\PruebaSFML\x64\Debug\PruebaSFML.exe

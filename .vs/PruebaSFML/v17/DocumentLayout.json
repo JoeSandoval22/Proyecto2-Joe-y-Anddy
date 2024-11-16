@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UNA-CC\\source\\repos\\PruebaSFML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5221EFF8-8C5C-4CBD-A364-2612CA7B61AE}|PruebaSFML\\PruebaSFML.vcxproj|C:\\Users\\UNA-CC\\source\\repos\\PruebaSFML\\PruebaSFML\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5221EFF8-8C5C-4CBD-A364-2612CA7B61AE}|PruebaSFML\\PruebaSFML.vcxproj|solutionrelative:PruebaSFML\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\UNA-CC\\source\\repos\\PruebaSFML\\PruebaSFML\\main.cpp",
+              "RelativeDocumentMoniker": "PruebaSFML\\main.cpp",
+              "ToolTip": "C:\\Users\\UNA-CC\\source\\repos\\PruebaSFML\\PruebaSFML\\main.cpp",
+              "RelativeToolTip": "PruebaSFML\\main.cpp",
+              "ViewState": "AQIAAEoBAAAAAAAAAAAAAFUBAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T16:31:38.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
